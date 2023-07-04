@@ -1,0 +1,5 @@
+Start docker and run the demo in out/artifacts/demo_main_jar/demo.main.jar or run in Compiler.
+Hibernate will pull mysql images and create tables.
+POST URL: http://localhost:8080/orders
+PATCH URL: http://localhost:8080/orders/:1
+GET URL: http://localhost:8080/orders?page=:1&limit=:6
