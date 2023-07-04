@@ -3,3 +3,6 @@ Run in Compiler is also okay as Hibernate will pull mysql images and create tabl
 POST URL: http://localhost:8080/orders
 PATCH URL: http://localhost:8080/orders/:1
 GET URL: http://localhost:8080/orders?page=:1&limit=:6
+
+Replace the field at api.key=test to use custom Google Api key. Request would be built according to this field.
+
