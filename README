@@ -4,5 +4,5 @@ POST URL: http://localhost:8080/orders
 PATCH URL: http://localhost:8080/orders/:1
 GET URL: http://localhost:8080/orders?page=:1&limit=:6
 
-Replace the field at api.key=test to use custom Google Api key. Request would be built according to this field.
+Replace the field at api.key if use custom Api key. Request would be built according to this field.
 
